@@ -1,0 +1,69 @@
+body {
+    font-family: Tahoma;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    margin: 50px 100px; 
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#profile {
+    width: 35%;
+    margin: 30px 100px;
+}
+
+#pic {
+    width: 65%;
+    height: 300px;
+    margin: 0px 100px
+}
+
+.button {
+    background-color: #d8e4ef;
+    margin: 2px 5px;
+    padding: 8px 15px;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #396ee1;
+    color: white;
+}
+h1 {
+    font-size: 40px;
+}
+
+p {
+    margin: 35px 0px;
+}
+
+.chatButton {
+    background-color: #d8e4ef;
+    text-align: center;
+    margin: 20px 0px;
+    padding: 14px 25px;
+    width: 150px;
+}
+
+.chatButton:hover {
+    background-color: #396ee1;
+    color: white;
+}
+
+#pic {
+    width: 65%;
+    height: 300px;
+    margin: 0px 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0px 100px;
+}

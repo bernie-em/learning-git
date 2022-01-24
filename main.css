@@ -1,0 +1,25 @@
+h1{
+    font-family: Arial;
+    font-size: 90px;
+    color: white;
+    background-color: royalblue;
+}
+p{
+    margin: 30px 0px;
+    color: green;
+}
+.orange-paragraph {
+    color: orange
+}
+div {
+    background-color: teal;
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+}
+img {
+    width 20px;
+    border: 6px solid blue;
+    padding:30px;
+    margin: 10px
+}
